@@ -1,0 +1,59 @@
+* {
+    background-color: #FCE7C8;
+    text-align: center;
+    text-decoration: none;
+    font-family: "Indie Flower", serif;
+}
+
+hr {
+    border: 5px solid white;
+}
+
+.footer {
+    text-decoration: none;
+    color: darksalmon;
+}
+
+p {
+    font-size: 30px;
+    color: #F0A04B;
+}
+
+.sun {
+    height: 150px;
+    background-color: transparent;
+    padding: 20px;
+    margin-bottom: 50px; 
+    border: 10px solid burlywood;
+}
+
+h1 {
+    font-size: 300%;
+    color: #F0A04B;
+    text-decoration: solid underline;
+}
+
+.month {
+    width: 50%;
+    margin-left: 23%;
+    margin-top: 50px;
+    border: 20px #FADA7A;
+    border-style: ridge;
+    margin-bottom: 50px;
+}
+
+.month p {
+    font-weight: bolder;
+    color: black;
+}
+
+.month img {
+    width: 50%;
+    height: 50%;
+    border: 10px solid #B1C29E;
+    margin-left: 3%;
+    margin-top: 20%;
+    align-items: center;
+}
+
+
